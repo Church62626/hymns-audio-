@@ -1,40 +1,26 @@
 {
   "version": "1.0",
-  "updated": "2026-05-17",
-
-  "urdu": [
+  "pdfs": [
     {
       "id": 1,
       "title": "2025-DST-MR",
-      "file": "2025-DST-MR(2).pdf"
+      "file": "urdu/2025-DST-MR(2).pdf",
+      "category": "urdu"
     },
     {
       "id": 2,
-      "title": "The Experience of Life",
-      "file": "The_Experience_of_Life_(2024).pdf"
-    }
-  ],
-
-  "english": [
-    {
-      "id": 1,
       "title": "English Hymn Book",
-      "file": "english/english_hymnbook.pdf"
+      "file": "english/english_hymnbook.pdf",
+      "category": "english"
     },
     {
-      "id": 2,
-      "title": "English Chorus Book",
-      "file": "english/english_chorus.pdf"
-    }
-  ],
-
-  "chinese": [
-    {
-      "id": 1,
+      "id": 3,
       "title": "Chinese Hymn Book",
-      "file": "chinese/chinese_hymnbook.pdf"
-    },
-    {
+      "file": "chinese/chinese_hymnbook.pdf",
+      "category": "chinese"
+    }
+  ]
+}    {
       "id": 2,
       "title": "Chinese Chorus Book",
       "file": "chinese/chinese_chorus.pdf"
