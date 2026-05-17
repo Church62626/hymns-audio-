@@ -1,0 +1,34 @@
+{
+  "urdu": [
+    {
+      "title": "The Experience of Life",
+      "file": "The Experience of Life(2024).pdf"
+    },
+    {
+      "title": "Urdu Hymn Book 2",
+      "file": "urdu2.pdf"
+    }
+  ],
+
+  "english": [
+    {
+      "title": "English Hymn Book 1",
+      "file": "eng1.pdf"
+    },
+    {
+      "title": "English Hymn Book 2",
+      "file": "eng2.pdf"
+    }
+  ],
+
+  "chinese": [
+    {
+      "title": "Chinese Hymn Book 1",
+      "file": "chi1.pdf"
+    },
+    {
+      "title": "Chinese Hymn Book 2",
+      "file": "chi2.pdf"
+    }
+  ]
+}
