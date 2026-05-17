@@ -3,27 +3,21 @@
   "pdfs": [
     {
       "id": 1,
-      "title": "2025-DST-MR",
-      "file": "urdu/2025-DST-MR(2).pdf",
+      "title": "2025 DST MR",
+      "file": "urdu/2025-DST-MR.pdf",
       "category": "urdu"
     },
     {
       "id": 2,
       "title": "English Hymn Book",
-      "file": "english/english_hymnbook.pdf",
+      "file": "english/hymnbook.pdf",
       "category": "english"
     },
     {
       "id": 3,
       "title": "Chinese Hymn Book",
-      "file": "chinese/chinese_hymnbook.pdf",
+      "file": "chinese/book.pdf",
       "category": "chinese"
-    }
-  ]
-}    {
-      "id": 2,
-      "title": "Chinese Chorus Book",
-      "file": "chinese/chinese_chorus.pdf"
     }
   ]
 }
