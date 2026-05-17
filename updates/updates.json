@@ -1,0 +1,16 @@
+{
+  "version": "1.0.5",
+  "lastUpdated": "2026-05-17",
+  "updates": [
+    {
+      "title": "New Urdu Hymns Added",
+      "message": "10 new Urdu hymns have been uploaded with audio.",
+      "date": "2026-05-17"
+    },
+    {
+      "title": "Bug Fix",
+      "message": "Favorites issue fixed in new update.",
+      "date": "2026-05-16"
+    }
+  ]
+}
