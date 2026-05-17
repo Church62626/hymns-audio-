@@ -1,0 +1,17 @@
+{
+  "version": "1.0",
+  "urdu": [
+    {
+      "id": 1,
+      "title": "Morning Revival",
+      "file": "2025-DST-MR(2).pdf"
+    }
+  ],
+  "english": [
+    {
+      "id": 1,
+      "title": "English Hymn 1",
+      "file": "english/doc1.pdf"
+    }
+  ]
+}
