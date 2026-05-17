@@ -1,0 +1,30 @@
+{
+  "urdu": [
+    {
+      "id": 1,
+      "title": "Urdu Hymn Video 1",
+      "file": "urdu1.mp4"
+    },
+    {
+      "id": 2,
+      "title": "Urdu Hymn Video 2",
+      "file": "urdu2.mp4"
+    }
+  ],
+
+  "english": [
+    {
+      "id": 1,
+      "title": "English Hymn Video 1",
+      "file": "eng1.mp4"
+    }
+  ],
+
+  "others": [
+    {
+      "id": 1,
+      "title": "Special Hymn Video",
+      "file": "other1.mp4"
+    }
+  ]
+},
