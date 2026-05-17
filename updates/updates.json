@@ -1,16 +1,33 @@
 {
-  "version": "2.1.0",
+  "version": "1.0.6",
   "lastUpdated": "2026-05-17",
+
+  "ads": [
+    {
+      "type": "image",
+      "title": "Special Church Program",
+      "image": "https://raw.githubusercontent.com/Church62626/hymns-audio-/main/ads/ad1.jpg",
+      "link": "https://facebook.com"
+    },
+    {
+      "type": "video",
+      "title": "New Hymn Video Released",
+      "video": "https://raw.githubusercontent.com/Church62626/hymns-audio-/main/ads/advideo.mp4"
+    }
+  ],
+
   "updates": [
     {
       "title": "New Urdu Hymns Added",
-      "message": "10 new Urdu hymns have been uploaded with audio.",
-      "date": "2026-05-17"
+      "message": "20 new hymns added with audio support.",
+      "date": "2026-05-17",
+      "image": "https://raw.githubusercontent.com/Church62626/hymns-audio-/main/updates/pic1.jpg"
     },
     {
-      "title": "Bug Fix",
-      "message": "Favorites issue fixed in new update.",
-      "date": "2026-05-16"
+      "title": "New Video Feature",
+      "message": "Now you can play hymn videos inside the app.",
+      "date": "2026-05-16",
+      "video": "https://raw.githubusercontent.com/Church62626/hymns-audio-/main/updates/updatevideo.mp4"
     }
   ]
 }
