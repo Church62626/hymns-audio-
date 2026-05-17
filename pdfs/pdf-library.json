@@ -1,17 +1,32 @@
 {
-  "version": "1.0",
   "urdu": [
     {
-      "id": 1,
-      "title": "Morning Revival",
+      "title": "2025-DST-MR",
       "file": "2025-DST-MR(2).pdf"
+    },
+    {
+      "title": "The Experience of Life",
+      "file": "The Experience of Life (2024).pdf"
     }
   ],
   "english": [
     {
-      "id": 1,
-      "title": "English Hymn 1",
-      "file": "english/doc1.pdf"
+      "title": "English Hymn Book",
+      "file": "english_hymnbook.pdf"
+    },
+    {
+      "title": "English Chorus Book",
+      "file": "english_chorus.pdf"
+    }
+  ],
+  "chinese": [
+    {
+      "title": "Chinese Hymn Book",
+      "file": "chinese_hymnbook.pdf"
+    },
+    {
+      "title": "Chinese Chorus Book",
+      "file": "chinese_chorus.pdf"
     }
   ]
 }
