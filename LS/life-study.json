@@ -8,18 +8,9 @@
       "messageNumber": 20,
       "page": 15,
       "title": "The Creation - The Beginning of God's Work",
-      "duration": "20:01",
-      "audioUrl": "philippians-msg-20.mp3",
-      "imagePath": "philippians-msg-20.jpg"
-    },
-    {
-      "id": 2,
-      "messageNumber": 2,
-      "page": 28,
-      "title": "The Creation - Man",
-      "duration": "42:15",
-      "audioUrl": "genesis-msg-02.mp3",
-      "imagePath": "genesis-msg-02.png"
+      "duration": "29:01",
+      "youtubeUrl": "https://www.youtube.com/watch?v=W5qbDbIxBUM",
+      "imagePath": "genesis-msg-01.jpg"
     }
   ]
 }
