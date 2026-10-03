@@ -1,13 +1,13 @@
 {
-  "bookTitle": "Life-Study of Genesis",
-  "testament": "oldTestament",
-  "language": "english",
+  "bookTitle": "Life-Study of Philipians",
+  "testament": "newTestament",
+  "language": "urdu",
   "messages": [
     {
       "id": 1,
       "messageNumber": 20,
       "page": 15,
-      "title": "The Creation - The Beginning of God's Work",
+      "title": "مسیچ میں پایا جانا",
       "duration": "29:01",
       "youtubeUrl": "https://www.youtube.com/watch?v=W5qbDbIxBUM",
       "imagePath": "genesis-msg-01.jpg"
