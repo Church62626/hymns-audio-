@@ -5,13 +5,12 @@
   "messages": [
     {
       "id": 1,
-      "messageNumber": 1,
+      "messageNumber": 20,
       "page": 15,
       "title": "The Creation - The Beginning of God's Work",
-      "duration": "45:20",
-      "audioUrl": "genesis-msg-01.mp3",
-      "imagePath": "genesis-msg-01.jpg",
-      "description": "An introductory message on the creation in Genesis 1 and God's eternal purpose."
+      "duration": "20:01",
+      "audioUrl": "philippians-msg-20.mp3",
+      "imagePath": "philippians-msg-20.jpg"
     },
     {
       "id": 2,
@@ -20,8 +19,7 @@
       "title": "The Creation - Man",
       "duration": "42:15",
       "audioUrl": "genesis-msg-02.mp3",
-      "imagePath": "genesis-msg-02.png",
-      "description": "Exploring the creation of man in the image and likeness of God."
+      "imagePath": "genesis-msg-02.png"
     }
   ]
 }
